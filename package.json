@@ -1,6 +1,6 @@
 {
   "name": "timer-circular",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Temporizador con número interno en formato minuto y segundo tomando como base MatProgressSpinner",
   "keywords": [
     "timer", "circular", "MatProgressSpinner", "countdown"
