@@ -5,6 +5,17 @@
   "keywords": [
     "timer", "circular", "MatProgressSpinner", "countdown"
   ],
+  "homepage": "https://github.com/eliasbg/timer-circular#readme",
+  "bugs": {
+    "url": "https://github.com/eliasbg/timer-circular/issues",
+    "email": "eliasbg@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Elías Barrientos García",
+    "email": "eliasbg@gmail.com",
+    "url": "https://github.com/eliasbg"
+  },
   "peerDependencies": {
     "@angular/common": "^12.2.0",
     "@angular/core": "^12.2.0",
